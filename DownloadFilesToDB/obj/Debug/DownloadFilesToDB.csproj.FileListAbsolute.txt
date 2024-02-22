@@ -1,0 +1,14 @@
+C:\Users\Theuns\source\repos\DownloadFilesToDB\DownloadFilesToDB\bin\Debug\DownloadFilesToDB.exe.config
+C:\Users\Theuns\source\repos\DownloadFilesToDB\DownloadFilesToDB\bin\Debug\DownloadFilesToDB.exe
+C:\Users\Theuns\source\repos\DownloadFilesToDB\DownloadFilesToDB\bin\Debug\DownloadFilesToDB.pdb
+C:\Users\Theuns\source\repos\DownloadFilesToDB\DownloadFilesToDB\obj\Debug\DownloadFilesToDB.csproj.CoreCompileInputs.cache
+C:\Users\Theuns\source\repos\DownloadFilesToDB\DownloadFilesToDB\obj\Debug\DownloadFilesToDB.exe
+C:\Users\Theuns\source\repos\DownloadFilesToDB\DownloadFilesToDB\obj\Debug\DownloadFilesToDB.pdb
+C:\Users\Theuns\source\repos\DownloadFilesToDB\DownloadFilesToDB\obj\Debug\DownloadFilesToDB.csprojAssemblyReference.cache
+C:\Apps\repos\DownloadFilesToDB\DownloadFilesToDB\bin\Debug\DownloadFilesToDB.exe.config
+C:\Apps\repos\DownloadFilesToDB\DownloadFilesToDB\bin\Debug\DownloadFilesToDB.exe
+C:\Apps\repos\DownloadFilesToDB\DownloadFilesToDB\bin\Debug\DownloadFilesToDB.pdb
+C:\Apps\repos\DownloadFilesToDB\DownloadFilesToDB\obj\Debug\DownloadFilesToDB.csprojAssemblyReference.cache
+C:\Apps\repos\DownloadFilesToDB\DownloadFilesToDB\obj\Debug\DownloadFilesToDB.csproj.CoreCompileInputs.cache
+C:\Apps\repos\DownloadFilesToDB\DownloadFilesToDB\obj\Debug\DownloadFilesToDB.exe
+C:\Apps\repos\DownloadFilesToDB\DownloadFilesToDB\obj\Debug\DownloadFilesToDB.pdb
